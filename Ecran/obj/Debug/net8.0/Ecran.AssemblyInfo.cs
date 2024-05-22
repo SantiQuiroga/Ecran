@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecran")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2725b71207e1bc837cf597f4d77f9236a3dedb38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecran")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecran")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
